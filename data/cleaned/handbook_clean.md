@@ -1,11 +1,3 @@
-# **Handbook** Student
-
-**YOUR GUIDE TO LIFE, LEARNING, AND COMMUNITY AT 1337**
-
-![](_page_0_Picture_4.jpeg)
-
-![](_page_0_Picture_5.jpeg)
-
 # **Welcome to 1337**
 
 ### **The 1337 Spirit**
@@ -29,9 +21,6 @@ You own your education, your pace, and your impact. The freedom you have here is
 **Respect and Integrity:** Freedom without respect destroys trust. Every student, staff member, and visitor deserves to be treated with kindness and professionalism. Integrity is not optional, it's what keeps our community safe, fair, and strong.
 
 **Responsibility:** At 1337, you are responsible for your actions, your space, and your community. That includes your learning, your digital behavior, your campus, and your peers. Your choices shape not only your path but the environment we all share.
-
-![](_page_1_Picture_14.jpeg)
-
 ### **What 1337 Expects From You**
 
 **Be present**, both physically and mentally. Your participation keeps the community alive.
@@ -44,7 +33,7 @@ You own your education, your pace, and your impact. The freedom you have here is
 
 **Be curious and bold**, 1337 rewards creativity and courage, not perfection.
 
-## **A Community Built on Trust**
+### **A Community Built on Trust**
 
 Everything at 1337, the projects, the evaluations, the systems, runs on one belief:
 
@@ -57,13 +46,9 @@ When you use your freedom responsibly, show up for your peers, and push your lim
 So welcome — to your journey, your challenge, and your community.
 
 Welcome to 1337.
-
-
-![](_page_3_Picture_2.jpeg)
-
 # **Campus Life**
 
-# **1. Life at 1337**
+## **1. Life at 1337**
 
 Life at 1337 is built on autonomy, collaboration, and accountability. Here, you take ownership of your learning journey, setting your own pace, managing your time, and finding your own solutions. The school provides the tools, the environment, and the community, but the drive and commitment must come from you.
 
@@ -71,7 +56,7 @@ Independence at 1337 is a privilege that comes with responsibility. Every studen
 
 Being part of 1337 means more than just coding; it means belonging to a community built on respect, creativity, and integrity, where your progress and the collective success of your peers go hand in hand.
 
-# **2. Respect and Behavior**
+## **2. Respect and Behavior**
 
 Respect is one of the most important values at 1337. Our community is built on collaboration and diversity, people from different backgrounds, experiences, and perspectives working together.
 
@@ -94,7 +79,7 @@ Respect is one of the most important values at 1337. Our community is built on c
 
 Respect is the foundation of trust, and trust is what allows 1337 to function. Violations of this policy may result in disciplinary measures, including loss of privileges, suspension, or exclusion.
 
-# **3. Hazing & Harassment**
+## **3. Hazing & Harassment**
 
 Hazing, bullying, or harassment of any kind is strictly forbidden at 1337. The school maintains a zerotolerance policy toward any act that humiliates, pressures, or threatens another person, whether on campus, in dorms, or online.
 
@@ -114,7 +99,7 @@ Hazing, bullying, or harassment of any kind is strictly forbidden at 1337. The s
 
 **1337 is a space for learning, not fear. Every student has the right to feel safe, respected, and supported.**
 
-# **4. Smoke-Free Campus**
+## **4. Smoke-Free Campus**
 
 Smoking, vaping, and e-cigarettes are only allowed in the designated smoking area. **They are not allowed anywhere else on campus**, including dorms, clusters, meeting rooms, playgrounds, or near entrances.
 
@@ -125,7 +110,7 @@ Smoking, vaping, and e-cigarettes are only allowed in the designated smoking are
 - Cigarette waste must be properly disposed of in the bins provided.
 - Breaking these rules may lead to disciplinary action.
 
-# **5. Restaurant**
+## **5. Restaurant**
 
 The restaurant is part of your student benefits; it's the school restaurant where meals are offered to students who are actively studying and participating on campus.
 
@@ -143,7 +128,7 @@ If you fall below the required activity level, your restaurant access may be sus
 - Return trays and utensils after eating.
 - Respect the staff and other students.
 
-# **6. Housing**
+## **6. Housing**
 
 Housing is a benefit for actively engaged students and is offered only on campuses with available housing facilities, depending on capacity and compliance with housing regulations. It is monitored through internal systems that track progress, presence, and participation.
 
@@ -153,9 +138,6 @@ The purpose of this system is to make sure housing is used by students who are p
 
 - Each student has 18 months of housing credit during the Common Core.
 - You must log at least 120 hours of activity per month to keep housing.
-
-![](_page_4_Picture_24.jpeg)
-
 - If a student does not meet this requirement, one month will be deducted from the total housing credit, unless the student has checked out of the room.
 - Extensions or exceptions must be approved by the BOCAL.
 
@@ -163,7 +145,7 @@ Housing is a privilege that supports your learning and presence at school.
 
 Misuse of housing or failure to meet requirements may lead to loss of benefits.
 
-# **7. Campus Spaces & Facilities**
+## **7. Campus Spaces & Facilities**
 
 The 1337 campus is a professional learning environment. Every student shares responsibility for maintaining it.
 
@@ -201,7 +183,7 @@ Students who damage or misuse facilities may face disciplinary actions. Treat th
 
 Keep your valuables safe and be respectful of others' property.
 
-# **9. Storage Room**
+## **9. Storage Room**
 
 The storage room is provided to help students keep their personal belongings safe and the campus organized. To maintain order and hygiene, all items must follow these rules:
 
@@ -210,7 +192,7 @@ The storage room is provided to help students keep their personal belongings saf
 - Any item not properly stored in a closed bag will be **removed and discarded without exception**.
 - Please make sure your belongings are labeled and organized to keep the space clean and accessible for everyone.
 
-# **10. Noise & Campus Etiquette**
+## **10. Noise & Campus Etiquette**
 
 1337 encourages collaboration and discussion, but not disruption. Be mindful of others who are working or studying or your neighborhood.
 
@@ -228,15 +210,15 @@ The storage room is provided to help students keep their personal belongings saf
 
 The school is located near a residential & professional areas. Out of respect for our neighbors and the community, you must keep noise levels low outside the school, especially between 9:00 PM & 8:00 AM. Loud conversations, gatherings, or music during these hours are strictly prohibited.
 
-# **11. Presence & Engagement**
+## **11. Presence & Engagement**
 
 Your presence is what keeps 1337 alive. This is not a remote learning environment; the school thrives on in-person collaboration and shared energy.
 
 Being present means more than just showing up, it means participating, sharing ideas, and helping others grow.
 
-# **12. Access & visits**
+## **12. Access & visits**
 
-#### **a. Access to the School**
+### **a. Access to the School**
 
 - All active students have free access to the school at any time using their personal student badge.
 - Your badge is strictly personal. Sharing or using another student's badge is strictly prohibited and may lead to disciplinary action.
@@ -257,7 +239,7 @@ Being present means more than just showing up, it means participating, sharing i
 
 # **Community Conduct**
 
-# **1. Being Part of the 1337 Community**
+## **1. Being Part of the 1337 Community**
 
 1337 is more than a school, it's a community built on trust, respect, and collaboration. Everyone contributes to the culture here. Every action, whether in person or online, shapes the environment we share.
 
@@ -273,7 +255,7 @@ Your freedom at 1337 is balanced by responsibility. You are trusted to act with 
 
 **Note:** All students are expected to respect and abide by Moroccan laws at all times, both on and off campus. Any action that violates the law may result in disciplinary measures in addition to legal consequences.
 
-# **2. Communication & Collaboration**
+## **2. Communication & Collaboration**
 
 Communication is a key part of life at 1337. How you express yourself, in discussions, on Discord, or during projects, affects the entire atmosphere of the school.
 
@@ -291,7 +273,7 @@ Communication is a key part of life at 1337. How you express yourself, in discus
 
 Discussions and debates are part of learning, but disrespect, mockery, or personal attacks are not.
 
-# **3. Online Conduct & Digital Responsibility**
+## **3. Online Conduct & Digital Responsibility**
 
 Much of 1337's collaboration happens online on Discord and the Intranet. Digital spaces are extensions of our physical community, and the same rules of respect apply.
 
@@ -304,7 +286,7 @@ Much of 1337's collaboration happens online on Discord and the Intranet. Digital
 
 Your online conduct reflects you and the school. Use digital spaces responsibly and professionally. Any misuse may lead to disciplinary action including access restrictions, suspension, or exclusion.
 
-# **4. IT and System Use**
+## **4. IT and System Use**
 
 Technology is at the center of how 1337 operates. Every student is given access to the school's digital systems and infrastructure. With that access comes trust, and responsibility.
 
@@ -320,7 +302,7 @@ Rules for using school systems:
 
 Any misuse of systems may result in disciplinary measures, including access restrictions, suspension, or exclusion. These systems are here to support your learning, use them responsibly.
 
-# **5. Data Security & Privacy**
+## **5. Data Security & Privacy**
 
 1337 is a place of learning, but also a digital ecosystem where trust and security matter.
 
@@ -335,7 +317,7 @@ Students are expected to handle data, their own and others', with care and integ
 
 Respecting data is part of respecting the people behind it.
 
-# **6. Personal Responsibility & Accountability**
+## **6. Personal Responsibility & Accountability**
 
 At 1337, your account, your work, and your actions are your responsibility. Everything you do under your credentials, whether in a project, a correction, or online, is treated as your own action.
 
@@ -347,7 +329,7 @@ At 1337, your account, your work, and your actions are your responsibility. Ever
 
 If your account or privileges are misused, you will be held accountable, even if it was done by someone using your access.
 
-# **7. Equipment and Campus Infrastructure**
+## **7. Equipment and Campus Infrastructure**
 
 All 1337 equipment — computers, networks, and technical infrastructure — is shared property.
 
@@ -366,7 +348,7 @@ Using it correctly ensures that everyone can work and learn in the best possible
 
 You are training to be a responsible developer. Respecting the systems you use is part of that training.
 
-# **8. Integrity and Trust**
+## **8. Integrity and Trust**
 
 Everything at 1337 is built on trust, the projects, the peer evaluations, the collaboration.
 
@@ -382,10 +364,7 @@ Integrity is not just a rule; it's the foundation of how we learn and succeed to
 Violations of academic integrity, including cheating, plagiarism, or falsifying evaluations/corrections, are treated seriously and may result in sanctions, suspension, or exclusion.
 
 At 1337, your credibility is worth more than any project score.
-
-![](_page_7_Picture_42.jpeg)
-
-# **9. Professionalism in Community Life**
+## **9. Professionalism in Community Life**
 
 Your time at 1337 is also preparation for your future career. The way you behave, communicate, and collaborate here mirrors the professional world.
 
@@ -398,7 +377,7 @@ Your time at 1337 is also preparation for your future career. The way you behave
 
 The school is your training ground, use it to build not only your technical skills, but also your professional habits and attitude.
 
-# **10. Sanctions and Accountability**
+## **10. Sanctions and Accountability**
 
 Every rule at 1337 is meant to protect the community. When someone violates those rules, consequences are applied to preserve fairness and respect for everyone else.
 
@@ -413,7 +392,7 @@ All disciplinary actions are reviewed by the BOCAL and handled with fairness, co
 
 The goal of a sanction is not punishment; it's accountability and growth.
 
-# **11. Remember: You Shape the Culture**
+## **11. Remember: You Shape the Culture**
 
 At 1337, culture is not imposed, it's created by the people in it.
 
@@ -426,14 +405,11 @@ Be the kind of peer others want to collaborate with, respectful, honest, curious
 The school will give you opportunities, freedom, and trust.
 
 It's up to you to live up to them.
-
-![](_page_8_Picture_25.jpeg)
-
 *This community*  **"** *is a mirror: the more you give to it, the stronger it becomes.*
 
 # **Academic Life & Pedagogy**
 
-# **1. Learning at 1337**
+## **1. Learning at 1337**
 
 Learning at 1337 is unlike any other experience. There are no teachers, no lectures, and no fixed curriculum. You are the main actor in your learning journey.
 
@@ -445,7 +421,7 @@ You bring the motivation, the curiosity, and the discipline.
 
 This model works only if you stay engaged, proactive, and honest with yourself and others.
 
-# **2. The Peer-to-Peer Model**
+## **2. The Peer-to-Peer Model**
 
 The principles are simple:
 
@@ -455,7 +431,7 @@ The principles are simple:
 
 Peer evaluation is not just part of the system; it is the system. It trains you to give feedback, defend your choices, and communicate like a professional.
 
-# **3. Projects & Evaluations**
+## **3. Projects & Evaluations**
 
 Projects are at the core of 1337's learning experience. Each project builds both technical and behavioral skills, helping you grow step by step.
 
@@ -497,7 +473,7 @@ Corrections are an essential learning and community exercise based on respect an
 
 **The correction process is strictly between the corrector and the corrected, no third party may intervene or be present during the evaluation.**
 
-# **4. Recoding**
+## **4. Recoding**
 
 At 1337, the goal is not only to finish projects but to master what you build. **Every student should expect to be recoded for at least one project during the Common Core**, this is a normal part of the learning process designed to verify understanding and mastery. Recoding is not a punishment. It is a competency check used to confirm that each student can reproduce and explain their work independently.
 
@@ -519,7 +495,7 @@ At 1337, the goal is not only to finish projects but to master what you build. *
 
 Recoding proves your work is truly yours and ensures fairness and credibility for everyone.
 
-# **5. Sanctions Related to Cheating**
+## **5. Sanctions Related to Cheating**
 
 1337 operates on trust, your progress, evaluations, and collaboration are all based on honesty. Any form of cheating, plagiarism, or dishonesty breaks that trust and harms the integrity of the community.
 
@@ -527,9 +503,6 @@ Recoding proves your work is truly yours and ensures fairness and credibility fo
 
 - Pushing a project you don't fully understand or can't reproduce.
 - Sharing or duplicating code between students.
-
-![](_page_10_Picture_27.jpeg)
-
 - Submitting identical or suspiciously similar projects.
 - Manipulating or falsifying corrections.
 - Engaging in unfair behavior during peer corrections or projects.
@@ -553,7 +526,7 @@ These rules exist not to punish but to protect fairness and the value of your ha
 
 *You are here to learn, not to fake success.*
 
-# **6. Benefits and Engagement Policy**
+## **6. Benefits and Engagement Policy**
 
 1337 provides social benefits (housing, meals, insurance, and scholarship) to help every student focus fully on learning and growing. These supports exist so that you can dedicate your time and energy to developing your skills and preparing for your future, without external barriers.
 
@@ -565,7 +538,7 @@ At 1337, each benefit is connected to the school's systems — the **Heart Syste
 
 Students who are full time employees are not eligible for social benefits provided by 1337, including housing, meals, insurance, or scholarships.
 
-# **7. The Heart System**
+## **7. The Heart System**
 
 ### **(Common Core Progress Tracking)**
 
@@ -586,7 +559,7 @@ If you lose all 3 hearts, **you lose all your social benefits**, **only your acc
 
 **Note:** *The Heart System applies to students starting*  from the 2025 cohort.
 
-# **8. The Supervisor System**
+## **8. The Supervisor System**
 
 ### **(After the Common Core)**
 
@@ -611,11 +584,7 @@ After two consecutive Slots without meeting the required achievements,
 - o **All school benefits are suspended**,
 - o Only **school access** remains active until progression is regained.
 
-![](_page_11_Picture_37.jpeg)
-
-![](_page_12_Picture_2.jpeg)
-
-# **9. Freezes**
+## **9. Freezes**
 
 ### **(Temporary Pauses)**
 
@@ -631,7 +600,7 @@ A freeze is a temporary pause in your academic progress. It exists to support st
 
 Freezes are here to help, not to reset or delay your learning. Use them only when necessary and always communicate with the BOCAL.
 
-# **10. Internship Policy**
+## **10. Internship Policy**
 
 Internships are an essential part of your journey at 1337. They allow you to apply what you've learned in real-world environments, gain hands-on experience, and connect with professionals in the tech and innovation ecosystem. Each one must align with your academic goals and the values of 1337.
 
@@ -667,9 +636,6 @@ The second internship prepares you for your professional transition and autonomy
 - **No scholarship** is provided during this period.
 - A peer video correction must be completed within one month after the internship ends.
   - After correction, **alumnization happens automatically**.
-
-![](_page_13_Picture_2.jpeg)
-
 ### **d. Startup Internships**
 
 Internships as startups are encouraged when they align with your learning objectives. They are accepted under the following conditions:
@@ -704,7 +670,7 @@ Your access to benefits like housing, restaurant, scholarships, depends on your 
 
 **LOGTIME** is not about control, it's about commitment. Presence is how we build community, collaboration, and progress.
 
-# **12. Scholarship**
+## **12. Scholarship**
 
 Scholarships are offered to support active students who meet LOGTIME requirements and do not benefit from accommodation.
 
@@ -719,7 +685,7 @@ Scholarships are offered to support active students who meet LOGTIME requirement
 - If UM6P provides a benefit, 1337 will not duplicate it.
 - Scholarships may be suspended for disciplinary reasons (e.g., behavior or misconduct…).
 
-# **13. Transportation**
+## **13. Transportation**
 
 Transportation is one of the social benefits provided by 1337 to make student life easier. Depending on your campus, transportation may include day and/ or night shuttles organized to help you travel safely between the school and designated areas.
 
@@ -735,7 +701,7 @@ Each campus has its own transportation schedule, routes, and rules, these are co
 
 Transportation is provided to help you focus on your studies and stay engaged with campus life, use it responsibly and respectfully.
 
-# **14. Insurance Coverage**
+## **14. Insurance Coverage**
 
 Every 1337 student is automatically covered by the school's insurance from the first day of integration. This coverage is here to keep you safe and supported while you learn.
 
@@ -758,7 +724,7 @@ In severe cases, it provides benefits as defined in the policy. (**Coverage limi
 - If you already have another personal or institutional insurance (other than the school one), **you must inform the BOCAL** on your first day at 1337 or on the day you declare your external insurance.
 - **For any incident**, follow the reporting steps and timelines provided by the BOCAL/insurer to ensure coverage applies.
 
-# **15. Attendo System**
+## **15. Attendo System**
 
 Attendo is the system that links your presence on campus with your restaurant access. It's a fairness system designed to make sure the restaurant benefits only students who are actively studying and contributing to campus life.
 
@@ -794,7 +760,7 @@ Attendo keeps the system fair by ensuring that:
 
 Attendo is here to promote fairness, responsibility, and community trust — so that every student who truly contributes gets the support they deserve.
 
-# **16. Summary: The 1337 Academic Mindset**
+## **16. Summary: The 1337 Academic Mindset**
 
 Your success at 1337 depends on three things:
 
@@ -806,6 +772,5 @@ At 1337, progress is personal, but growth is collective. This is not just a scho
 
 Own it, live it, and make it count.
 
-*"1337 gives you the tools, the space, and the trust* 
+*"1337 gives you the tools, the space, and the trust*
 
-![](_page_15_Figure_1.jpeg)
