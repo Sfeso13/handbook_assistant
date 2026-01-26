@@ -26,4 +26,3 @@ def embed(chunks):
     with open("data/index/metadata.json", "w", encoding="utf-8") as f:
         json.dump(chunks, f, ensure_ascii=False, indent=2)
     
-    return model
