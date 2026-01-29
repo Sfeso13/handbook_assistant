@@ -17,7 +17,7 @@ def log_resources(prefix=""):
 
 # Example query list
 queries = [
-    "Can I smoke on campus?",
+    "I am already working at a company in casablanca, can I still join 1337 and get the benifits?",
 ]
 
 model = SentenceTransformer("all-MiniLM-L6-v2")
@@ -25,6 +25,8 @@ model = SentenceTransformer("all-MiniLM-L6-v2")
 for q in queries:
     # Step 1: retrieve relevant chunks
     chunks = retrieve(q, model, k=5)
+    for chunk in chunks:
+        print(chunk["path"])
 
     # Step 2: build prompt
     prompt = build_prompt(q, chunks)
