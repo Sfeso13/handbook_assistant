@@ -7,15 +7,16 @@ from    scripts.llm import generate
 import time, psutil, os
 
 # Track your process
-pid = os.getpid()
-proc = psutil.Process(pid)
-
-def log_resources(prefix=""):
-    mem = proc.memory_info().rss / 1e9  # in GB
-    cpu = proc.cpu_percent(interval=None)
-    print(f"{prefix} CPU: {cpu:.1f}% | RAM: {mem:.2f}GB")
-
+#pid = os.getpid()
+#proc = psutil.Process(pid)
+#
+#def log_resources(prefix=""):
+#    mem = proc.memory_info().rss / 1e9  # in GB
+#    cpu = proc.cpu_percent(interval=None)
+#    print(f"{prefix} CPU: {cpu:.1f}% | RAM: {mem:.2f}GB")
+#
 # Example query list
+
 queries = [
     "I am already working at a company in casablanca, can I still join 1337 and get the benifits?",
 ]
