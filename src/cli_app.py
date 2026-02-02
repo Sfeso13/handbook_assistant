@@ -30,12 +30,13 @@ def main():
         start = time.time()
         response = generate(prompt)
         end = time.time()
+        answer = response.message.content
         
-        print("\nAssistant : \n", response.message, "\n")
+        print("\nAssistant : \n", answer, "\n")
         print(f"Time taken: {end-start:.2f} sec")
         
         history.append(("user", user_input))
-        history.append(("assistant", response.message))
+        history.append(("assistant", answer))
 
 
 if __name__ == "__main__":
