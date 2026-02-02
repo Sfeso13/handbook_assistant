@@ -2,7 +2,8 @@ import  json
 from    scripts.retrieval import retrieve
 from    sentence_transformers import SentenceTransformer
 from    scripts.prompt import build_prompt
-from    scripts.llm import generate
+#from    scripts.llm import generate
+from    scripts.answer import generate
 import time
 
 def main():
@@ -11,7 +12,7 @@ def main():
     history = []
 
     while True:
-        user_input = input(">>").strip()
+        user_input = input(">> ").strip()
         if user_input.lower() in {"exit", "quit", "stop"}:
             break
         
@@ -30,11 +31,11 @@ def main():
         response = generate(prompt)
         end = time.time()
         
-        print("\nAssistant : \n", response, "\n")
+        print("\nAssistant : \n", response.message, "\n")
         print(f"Time taken: {end-start:.2f} sec")
         
         history.append(("user", user_input))
-        history.append(("assistant", response))
+        history.append(("assistant", response.message))
 
 
 if __name__ == "__main__":
