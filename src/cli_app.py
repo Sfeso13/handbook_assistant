@@ -5,7 +5,10 @@ from    scripts.prompt import build_prompt
 #from    scripts.llm import generate
 from    scripts.answer import generate
 from    scripts.token_length import calculate_tokens
-import time
+from    scripts.trim_history import trim_history
+import  time
+
+MAX_TOKENS = 200
 
 def main():
     
@@ -22,16 +25,25 @@ def main():
         for chunk in retrieved_chunks:
             print(chunk["path"])
 
+        if calculate_tokens(history) >= MAX_TOKENS:
+            history = trim_history(history, model="qwen3:4b-instruct-2507-q4_K_M")
+
         prompt = build_prompt(
                 query=user_input,
                 chunks=retrieved_chunks,
                 history=history
                 )
+        
+        print("\nhistory : ")
+        for role, content in history:
+            print("role: ", role)
+            print("content :",content)
+
         print("\nprompt so far  : \n", prompt)
         print("tokens used : ", calculate_tokens(prompt), "\n")
         
         start = time.time()
-        response = generate(prompt)
+        response = generate(prompt, model="qwen3:4b-instruct-2507-q4_K_M")
         end = time.time()
         answer = response.message.content
         
