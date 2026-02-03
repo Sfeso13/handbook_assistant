@@ -4,6 +4,7 @@ from    sentence_transformers import SentenceTransformer
 from    scripts.prompt import build_prompt
 #from    scripts.llm import generate
 from    scripts.answer import generate
+from    scripts.token_length import calculate_tokens
 import time
 
 def main():
@@ -26,7 +27,9 @@ def main():
                 chunks=retrieved_chunks,
                 history=history
                 )
-
+        print("\nprompt so far  : \n", prompt)
+        print("tokens used : ", calculate_tokens(prompt), "\n")
+        
         start = time.time()
         response = generate(prompt)
         end = time.time()
