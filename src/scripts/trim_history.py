@@ -1,6 +1,7 @@
 from ollama import chat
 
 def trim_history(history, model):
+    
     system = """
     You are an expert at summarizing conversations.
     Preserve all important context and facts.
