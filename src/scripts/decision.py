@@ -5,7 +5,7 @@ from ollama import chat
 def llm_decide(query):
     system = f"""You classify user intent. The system you are working on is created to answer queries about official handbook rules and policies as well as the life in a coding school called '1337'.
 
-If the question requires information about the school, facts, official handbook rules or policies, output:
+If the question requires factual information about the school, official handbook rules or policies, output:
 RETRIEVAL
 
 Otherwise output:
