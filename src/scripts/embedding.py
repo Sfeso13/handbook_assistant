@@ -1,28 +1,37 @@
 import json
-from sentence_transformers import SentenceTransformer
+from ollama import embeddings
 import faiss
 import numpy as np
 
 
-def embed(chunks):
+def embed(chunks, model="nomic-embed-text-v2-moe"):
     texts = [c["content"] for c in chunks]
+    
+    vectors = []
+    
+    for text in texts:
+        res = embeddings(
+            model=model,
+            prompt=text
+        )
+        vectors.append(res["embedding"])
 
-    model = SentenceTransformer("all-MiniLM-L6-v2")
-
-    embeddings = model.encode(
-            texts,
-            batch_size=32,
-            show_progress_bar=True,
-            normalize_embeddings=True
-            )
-
-    dim = embeddings.shape[1]
+    embeddings_np = np.array(vectors, dtype="float32")
+    dim = embeddings_np.shape[1]
 
     index = faiss.IndexFlatIP(dim)
-    index.add(np.array(embeddings))
+    index.add(embeddings_np)
 
     faiss.write_index(index, "data/index/handbook.faiss")
 
     with open("data/index/metadata.json", "w", encoding="utf-8") as f:
-        json.dump(chunks, f, ensure_ascii=False, indent=2)
-    
+        json.dump(
+            {
+                "embed_model": model,
+                "dimension": dim,
+                "chunks": chunks
+            },
+            f,
+            ensure_ascii=False,
+            indent=2
+        )

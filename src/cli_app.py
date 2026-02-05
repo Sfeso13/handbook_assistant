@@ -8,8 +8,6 @@ from    scripts.answer import generate
 from    scripts.token_length import calculate_tokens
 import  time
 
-MAX_TOKENS = 200
-
 def main():
     
     model = SentenceTransformer("all-MiniLM-L6-v2")
