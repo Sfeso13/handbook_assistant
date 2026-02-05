@@ -1,8 +1,8 @@
 import  json
+from    chat_retrieve import retrieve_prompt, chat_prompt
+from    scripts.decision import route_query
 from    scripts.memory import update_history
-from    scripts.retrieval import retrieve
 from    sentence_transformers import SentenceTransformer
-from    scripts.prompt import build_prompt
 #from    scripts.llm import generate
 from    scripts.answer import generate
 from    scripts.token_length import calculate_tokens
@@ -20,17 +20,12 @@ def main():
         if user_input.lower() in {"exit", "quit", "stop"}:
             break
         
-        retrieved_chunks = retrieve(user_input, model)
-        print("\nContext provided : \n")
-        for chunk in retrieved_chunks:
-            print(chunk["path"])
+        if route_query(user_input, model).lower() == "retrieval":
+            prompt = retrieve_prompt(user_input, model, history)
+        else:
+            prompt = chat_prompt(user_input, history)
 
-        prompt = build_prompt(
-                query=user_input,
-                chunks=retrieved_chunks,
-                history=history
-                )
-        
+
         print("\nprompt so far  : \n", prompt)
         print("tokens used : ", calculate_tokens(prompt), "\n")
         
