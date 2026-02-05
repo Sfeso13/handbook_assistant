@@ -5,6 +5,7 @@ def trim_history(history, model):
     system = """
     You are an expert at summarizing conversations.
     Preserve all important context and succinctly provide what the conversation is about.
+    The summary should be between 2-5 sentences.
     """
 
     messages = [{"role": "system", "content": system}]
