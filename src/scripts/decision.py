@@ -1,6 +1,14 @@
 from scripts.embedding import embed
 import numpy as np
+from ollama import embeddings
 from ollama import chat
+
+def normalize(v):
+    return v / np.linalg.norm(v)
+
+def cosine(a, b):
+    return np.dot(a, b)
+
 
 def llm_decide(query):
     system = f"""You classify user intent. The system you are working on is created to answer queries about official handbook rules and policies as well as the life in a coding school called '1337'.
@@ -21,14 +29,28 @@ CHAT
             )
     return response.message.content
 
-def cosine(a, b):
-    return np.dot(a, b)
 
 def route_query(query, model):
-    retrieval_intent = model.encode("Questions about 1337, official rules, policies, procedures, requirements or overall enquiries about the life in 1337")
-    chat_intent = model.encode("Greetings, Casual conversation, explanations, summaries, or general discussion")
+    """
+    Decide wether the query needs retrieval or not.
+    """
 
-    query_embed = model.encode(query)
+    retrieval_intent = normalize(
+            embeddings(
+                model=model,
+                prompt="Questions about 1337 coding school, official rules, policies, procedures, requirements or overall enquiries about the life in 1337 campus"
+            )["embedding"])
+    chat_intent = normalize(
+            embeddings(
+                model=model,
+                prompt="Greetings, Casual conversation, explanations, summaries, or general discussion"
+            )["embedding"])
+
+    query_embed = normalize(
+            embeddings(
+                model=model,
+                prompt=query
+            )["embedding"])
 
     s_retrieve = cosine(query_embed, retrieval_intent)
     s_chat = cosine(query_embed, chat_intent)

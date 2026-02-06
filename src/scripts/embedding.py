@@ -5,15 +5,16 @@ import numpy as np
 
 
 def embed(chunks, model="nomic-embed-text-v2-moe"):
-    texts = [c["content"] for c in chunks]
     
     vectors = []
     
-    for text in texts:
+    for c in chunks:
+        texts = f"search_document : {c['content']}"
         res = embeddings(
             model=model,
-            prompt=text
+            prompt=texts
         )
+
         vectors.append(res["embedding"])
 
     embeddings_np = np.array(vectors, dtype="float32")
