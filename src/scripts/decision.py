@@ -20,7 +20,6 @@ Otherwise output:
 CHAT
 """
 
-    print("\nLLM DECISION\n")
     messages = [{"role": "system", "content": system}]
     messages.append({"role": "user", "content": query})
     response = chat(
@@ -56,7 +55,6 @@ def route_query(query, model):
     s_chat = cosine(query_embed, chat_intent)
 
     margin = abs(s_retrieve - s_chat)
-    print("\nmargin : ", margin, "\n")
 
     if margin > 0.15:
         decision = "retrieval" if s_retrieve > s_chat else "chat"

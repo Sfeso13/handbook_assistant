@@ -1,8 +1,8 @@
 from ollama import chat
 
-def generate(prompt, model="mistral"):
-    response = chat(
+def generate(prompt, model="mistral", stream=False):
+    return chat(
             model=model,
-            messages=prompt
+            messages=prompt,
+            stream=stream
             )
-    return response
