@@ -23,7 +23,7 @@ CHAT
     messages = [{"role": "system", "content": system}]
     messages.append({"role": "user", "content": query})
     response = chat(
-            model="qwen3:2b-rag",
+            model="sanruss/qwen3-2b-rag",
             messages=messages
             )
     return response.message.content
