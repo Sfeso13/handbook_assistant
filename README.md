@@ -4,7 +4,7 @@ A Retrieval-Augmented Generation (RAG) system designed for efficiently querying 
 
 **what to expect next**:
 - Expanding "Knowledge base" to include 42-related informations and overall general facts and rules any 42/1337 student need to be aware of.
-- Web app UI for ease of use.
+- Web app UI for ease of use with intra account login.
 - Possibility of choosing your own **embedding** and **LLM** models.
 ---
 
