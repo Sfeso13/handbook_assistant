@@ -137,6 +137,7 @@ ollama pull nomic-embed-text-v2-moe
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="Abacus" width="25" height="25" /> Usage
 1. **Start the assistant**
 ```bash
-python3 src/cli_app.py
+python3 src/cli_app.py            #for general use
+python3 src/cli_app.py --debug    #for printing debug messages
 ```
 2. **Query to your heart contents**
